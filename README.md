@@ -25,7 +25,7 @@ profile.json - demographic data for each customer
 transcript.json -  records for transactions, offers received, offers viewed, and offers completed
 
 Summary
-There are some interesting findings in this dataset however I believe that more data is needing in order to come to any conclusions. We found that African Americans are over represented in the fatal shootings of police offices, however they are also over represented in total arrests. More data and analysis needs to be done on arrest information. We also found that African Americans are on average shot at a younger age then other races, and the data would suggest more likely to flee the scene. However, they are also less likely to have a weapon or attack.
+Overall about 40% of offers sent out get completed. This varys some between offer types but mostly stays consistant. I believe Starbucks should increase their informational offers sent out since they have the highest completion rate and least cost. I also believe Starbucks should use machine learning to improve their results and increase revenue. 
 
 ## Acknowledgements
 - the visuals.py code was created by Udacity for the supervised learning project in the Data Science Nano Degree program. 
