@@ -2,7 +2,7 @@
 
 
 ## Blog
-Medium - 
+Medium - https://medium.com/@sthomas9921/starbucks-capstone-challenge-416b8c131a56
 
 ## Installations
 This project was written in the Anaconda environment and Python 3.7
